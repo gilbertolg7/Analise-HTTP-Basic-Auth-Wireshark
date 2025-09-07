@@ -9,8 +9,8 @@ Wireshark é a ferramenta utilziada para a analise detalhada</br>
 ## Perguntas a serem respondidas.
 __How many HTTP GET requests are in pcap?__  
 5 pacotes de requests</br>
-Foi utilizado a vizualizaçao das estatisticas com a filtro de HTTP e contadores de pacotes </br>
-![](/images/HTTP%20pacotes.png)</br></br>
+![](/images/HTTP%20pacotes.png)</br>
+Foi utilizado a vizualizaçao das estatisticas com a filtro de HTTP e contadores de pacotes </br></br>
 
 __What is the server operating system?__  FreeBSD Apache IP 1.1.1.5</br>
 __What is the name and version of the web server software?__ Apache/2.2.15</br>
@@ -22,9 +22,10 @@ __What is the client's user-agent information?__  Lynx/2.8.7rel.1 libwww-FM/2.14
 ![](/images/user-agent.png)
 Foi utilizado um request do cliente para obter os dados do mesmo</br></br>
 
-![](/images/200.png)
+
 __What is the username used for Basic Authentication?__ webadmin </br>
 __What is the user password used for Basic Authentication?__ W3b4Dm1n</br>
+![](/images/200.png)
 Foi utilizado um request do cliente com sucesso em seguida, isso indica que os dados foram autentifcados corretamente e o acesso foi concedido</br></br>
 
 ## Resultado da analise.
